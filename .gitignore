@@ -1,0 +1,12 @@
+/yolo/brain-tumor (1).zip
+/perceptron/data/
+/resnet/data/cifar-10-python.tar.gz
+/resnet/data/cifar-10-batches-py/batches.meta
+/resnet/data/cifar-10-batches-py/data_batch_5
+/resnet/data/cifar-10-batches-py/data_batch_4
+/resnet/data/cifar-10-batches-py/data_batch_3
+/resnet/data/cifar-10-batches-py/data_batch_2
+/resnet/data/cifar-10-batches-py/data_batch_1
+/perceptron/model.pth
+/resnet/data/cifar-10-batches-py/readme.html
+/resnet/data/cifar-10-batches-py/test_batch
